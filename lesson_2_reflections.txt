@@ -1,1 +1,4 @@
 After initializing a git repo, you need to commit to it after.
+
+The staging area is different than the working directory, because it can contain only a portion of the working directory that you plan to commit.
+It is different than the repo because it has yet to be committed to the repo.
