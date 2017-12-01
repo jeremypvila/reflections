@@ -1,0 +1,1 @@
+After initializing a git repo, you need to commit to it after.

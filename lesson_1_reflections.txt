@@ -1,0 +1,13 @@
+diff makes it easy to locate changes between files, especially when they are large.
+
+Access to the entire history of a file ensures you can compare any two versions to spot bugs.
+
+When choosing to commit a file on on command vs. automatically, the commits make logical sense.
+
+Some version control save files separately because the files arent dependent.  Git is able to commit multiple files because they are related to a single change in functionality.
+
+you can use git log and git giff to view history of files by first spotting the commit with git log, then viewing differences with git diff.
+
+Using version control removes the fear of having bugs in code.  You can always undo.
+
+I want to use git to better collaborate with my team.
